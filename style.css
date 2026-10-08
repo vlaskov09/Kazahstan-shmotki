@@ -1,0 +1,830 @@
+ 
+  .bod1 {
+    
+    margin: 0;
+    background-image: url(images/fon.png);
+    background-size: 100% auto;
+    background-position: center top;
+    background-repeat: no-repeat;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 114vh;
+    background-color: #151B26;
+    
+}
+ 
+ 
+ 
+ header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+ }
+
+  .man{
+    text-decoration: none;
+    text-decoration-color: #fff;
+    color: #fff;
+ }
+ 
+ header img {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+ }
+ 
+
+ header h1 {
+    position: absolute;
+    font-family: molot, sans-serif;
+    
+    
+    
+    margin: 0;
+ }
+ 
+ 
+ 
+ #ko {
+    color:#ffb218;
+    margin-left: 150px;
+
+}
+
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    
+    background-color: rgba(0, 0, 0, 0.3);
+    
+    z-index: 10;
+}
+
+
+
+#a1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 350px;
+    color: #ffb218;
+    border-bottom: solid #ffb218 2px;
+    
+
+    
+}
+
+#a2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #fff;
+    
+
+    
+}
+
+#a3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #fff;
+    
+
+    
+}
+
+#a4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #fff;
+    
+
+    
+}
+
+#a5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #fff;
+}
+
+div #trad {
+    margin-top: 4px;
+    
+    font-size: 35px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #ffb218;
+}
+
+div #naz {
+    margin-top: 300px;    
+    margin-left: 100px;
+    font-size: 65px;
+    color: #fff;
+}
+
+
+#p93 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: #fff;
+    margin-left: 100px;
+
+}
+
+
+#pod {
+    width: 300px;
+    height: 125px;
+     margin-left: 45px;
+
+}
+
+#pod a {
+     text-decoration: none;
+    text-decoration-color: #fff;
+    color: #fff;
+
+}
+
+
+#cs2 {
+    
+    color: #fff;
+    font-family: molot, sans-serif; 
+    font-size: 30px;
+    margin-left: 100px;
+    
+    
+}
+
+#cs2 #mur {
+    color:#ffb218;
+
+}
+
+#bolsh{
+    text-decoration: none;
+    text-decoration-color: #fff;
+    color: #000000;
+    margin-left: 20px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.tg{
+   display: flex;
+   align-items: center;
+    background:  #ffb218;
+    width: 250px;
+    border-radius: 20px;
+    height: 60px;
+    margin-top: 40px;
+    margin-left: 100px;
+
+    box-shadow: #ffb218 0px 0px 20px;
+
+}
+
+.myline {
+    margin-top: 320px;
+    
+}
+
+.fot {
+    display:flex;
+    align-items: center;
+}
+
+#kon {
+    
+    color: #808080;
+    font-family: molot, sans-serif;
+    font-size: 20px;
+    margin-left: 150px;
+    
+}
+
+.fott {
+     display:flex;
+   align-items: center;
+
+}
+
+.fott #pree {
+   
+    color:#808080;
+    
+    font-size: 14px;
+    margin-left: 100px;
+}
+
+.fott img {
+    width: 40px;
+    height: 35px;
+    margin-left:85px ;
+    margin-bottom: 25px;
+}
+
+.fott #ppp {
+    color: #808080;
+    margin-bottom: 40px;
+    
+}
+
+.fott .p2p2 {
+    
+    text-decoration-color: none ;
+    text-decoration-line: none;
+    margin-left: 100px;
+    margin-bottom: 40px;
+    
+
+}
+
+.fott a {
+    text-decoration: none;
+    text-decoration-color: none;
+    color:#808080;
+}
+
+
+.pochta {
+    display: flex;
+    align-items: center;
+}
+
+.pochta img {
+    width: 40px;
+    height: 30px;
+    margin-left:425px ;
+    margin-bottom: 25px;
+
+}
+
+
+
+.pochta #poch1 {
+    color:#808080;
+    margin-bottom: 40px;
+
+}
+
+.pochta #poch2 {
+    text-decoration-color: none ;
+    text-decoration-line: none;
+    margin-left: 60px;
+    margin-bottom: 40px;
+
+}
+
+.pochta a {
+    text-decoration: none;
+    text-decoration-color: none;
+    color: #808080;
+}
+
+
+.mal {
+    display: flex;
+    align-items: center;
+
+}
+
+.mal img {
+    width: 45px;
+    height: 45px;
+    margin-left:423px ;
+    margin-bottom: 25px;
+
+}
+
+.mal #mmm {
+    color:#808080;
+     margin-bottom: 40px;
+    
+    
+}
+
+
+.bod2 {
+    
+    
+    
+    margin: 0;
+    background-image: url(images/fonist.jpg);
+    background-size: 100% auto;
+    background-position: center top;
+    background-repeat: no-repeat;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 114vh;
+    background-color: #151B26;
+}
+
+.mod {
+    background-color: rgba(21, 27, 38, 0.5);
+}
+
+.mod img {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+
+}
+
+.mod #koo {
+    color:#ffb218;
+    margin-left: 150px;
+    position: absolute;
+
+}
+
+
+
+
+#a11 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 350px;
+    color: #ffffff;
+    
+    
+
+    
+}
+
+#a22 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #ffb218;
+    border-bottom: solid #ffb218 2px;
+    
+
+    
+}
+
+#a33 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #fff;
+    
+
+    
+}
+
+#a44 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #fff;
+}
+
+    #a55 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #fff;
+    
+
+    
+}
+
+.mod a {
+    text-decoration: none;
+    text-decoration-color: #fff;    
+    color: #fff;
+    
+    
+}
+
+.otto #ot {
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-left: 200px;
+    margin-top: 170px;
+    border-bottom: solid #ffb218;
+    width: 530px;
+}
+
+.otto #ttp {
+    color: #fff;
+    font-size: 20px;
+     margin-left: 200px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+
+.cardd {
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    
+    background: rgba(36, 36, 36, 0.7);
+    border-radius: 20px;
+    padding: 30px;
+    width: 250px;
+    border-bottom: solid #ffb218 10px;
+    margin-top: 100px;
+    margin-left: 200px;
+    font-family:  sans-serif;
+    
+    
+    box-shadow: 0 0 50px rgba(255,178,24);
+    
+}
+
+#sv {
+    font-size: 30px;
+    color: #ffb218;
+
+}
+
+#hh {
+    font-size: 20px;
+    color: #fff;
+}
+
+.card2 {
+    background: rgba(36, 36, 36, 0.7);
+    border-radius: 20px;
+    padding: 30px;
+    width: 250px;
+    height: 235px;
+    border-bottom: solid #1E90FF 10px;
+    margin-top: 100px;
+    margin-left: 100px;
+    font-family:  sans-serif;
+
+    box-shadow: 0 0 50px rgba(30,144,255);
+}
+
+#gg {
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: #1E90FF;
+}
+
+#jj {
+   
+    font-size: 20px;
+    color: #fff;
+}
+
+
+.card3 {
+    background:rgba(36, 36, 36, 0.7) ;
+    border-radius: 20px;
+    padding: 30px;
+    width: 250px;
+    height: 235px;
+    border-bottom: solid #ffb218 10px;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-family: sans-serif;
+
+    box-shadow: 0 0 50px rgba(255,178,24);
+}
+
+#vv {
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: #ffb218;
+}
+
+#ww {
+   
+    font-size: 20px;
+    color: #fff;
+}
+
+.per {
+    background: rgba(36, 36, 36, 0.7);
+    border-radius: 20px;
+    padding: 30px;
+    width: 250px;
+    height: 235px;
+    border-bottom: solid #1E90FF 10px;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-family: sans-serif;
+
+    box-shadow: 0 0 50px rgba(30,144,255) ;
+
+}
+
+#pp {
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: #1E90FF;
+
+}
+
+#rr {
+    font-size: 20px;
+    color: #fff;
+
+}
+
+.myline2 {
+    margin-top: 320px;
+}
+
+
+.dota2 {
+    background-image: url(images/fonsta.jpg);
+     background-size: 100% auto;
+    background-position: center top;
+    background-repeat: no-repeat;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 114vh;
+    background-color: #151B26;
+}
+
+#kooo {
+    color: #ffb218;
+    margin-left: 150px;
+    position: absolute;
+}
+
+header a {
+    text-decoration: none;
+    text-decoration-color: #fff;
+    color: #fff;
+}
+
+#a111 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 350px;
+    color: #ffffff;
+}
+
+#a222 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #fff;
+}
+
+#a333 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #ffb218;
+    border-bottom: solid #ffb218 2px;
+}
+
+#a444 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #fff;
+}
+
+#a555 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #fff;
+}
+
+
+#vid {
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+   text-align: center;
+   margin-top: 170px;
+   color: #ffb218;
+   background: rgba(36, 36, 36, 0.7);
+   padding: 20px;
+   width: 400px;
+   border-radius: 20px;
+   margin-left: 700px;
+}
+
+
+.photo {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.photo1 img {
+    width: 250px;
+    height: 350px;
+    border-radius: 20px;
+    border-bottom: solid #ffb218 5px;
+    border-top: solid #ffb218 5px;
+    box-shadow: 0 0 20px rgba(255,178,24);
+    
+    
+}
+
+#shapanh3 {
+    
+   width: 300px;
+   font-family:sans-serif; ;
+   color: #ffb218;
+    
+}
+
+
+
+.photo1 {
+    background: rgba(36, 36, 36, 0.7) ;
+    border-radius: 20px;
+    padding: 20px;
+    width: 255px;
+    margin-left: 63px;
+    
+
+}
+
+#shapanp1 {
+    font-family: sans-serif;
+    font-size: 18px;
+    color:#ffffff;
+}
+
+.photo2 img {
+    width: 250px;
+    height: 350px;
+    border-radius: 20px;
+    border-bottom: solid #ffb218 5px;
+    border-top: solid #ffb218 5px;
+    box-shadow: 0 0 20px rgba(255,178,24);
+    
+}
+
+.photo2 {
+    background: rgba(36, 36, 36, 0.7) ;
+    border-radius: 20px;
+    padding: 20px;
+    width: 255px;
+    margin-left: 63px
+    
+}
+
+.photo2 #kamzolh3 {
+    width: 300px;
+    font-family:sans-serif; ;
+    color: #ffb218;
+    
+}
+
+.photo2 #kamzolp1 {
+    font-family: sans-serif;
+    font-size: 18px;
+    color:#ffffff;
+}
+
+
+.photo3 img {
+    width: 250px;
+    height: 350px;
+    border-radius: 20px;
+    border-bottom: solid #ffb218 5px;
+    border-top: solid #ffb218 5px;
+    box-shadow: 0 0 20px rgba(255,178,24);
+}
+
+.photo3 {
+    background: rgba(36, 36, 36, 0.7) ;
+    border-radius: 20px;
+    padding: 20px;
+    width: 255px;
+    margin-left: 63px;
+}
+
+#saukh3 {
+    color: #ffb218;
+    font-family: sans-serif;
+    width: 300px;
+}
+
+#saukp1 {
+    font-family: sans-serif;
+    font-size: 18px;
+    color:#ffffff;
+}
+
+
+.photo4 img {
+    width: 250px;
+    height: 350px;
+    border-radius: 20px;
+    border-bottom: solid #ffb218 5px;
+    border-top: solid #ffb218 5px;
+    box-shadow: 0 0 20px rgba(255,178,24);
+}
+
+.photo4 {
+    background: rgba(36, 36, 36, 0.7) ;
+    border-radius: 20px;
+    padding: 20px;
+    width: 255px;
+    margin-left: 63px;
+}
+
+#tamakh3 {
+    color: #ffb218;
+    font-family: sans-serif;
+    width: 300px;
+}
+
+#tamakp1 {
+    font-family: sans-serif;
+    font-size: 18px;
+    color:#ffffff;
+}
+
+.photo5 img {
+    width: 250px;
+    height: 350px;
+    border-radius: 20px;
+    border-bottom: solid #ffb218 5px;
+    border-top: solid #ffb218 5px;
+    box-shadow: 0 0 20px rgba(255,178,24);
+}
+
+.photo5 {
+    background: rgba(36, 36, 36, 0.7) ;
+    border-radius: 20px;
+    padding: 20px;
+    width: 255px;
+    margin-left:63px;
+}
+
+.photo5 #masih3 {
+    color: #ffb218;
+    font-family: sans-serif;
+    width: 300px;
+}
+
+.photo5 #masip1 {
+    font-family: sans-serif;
+    font-size: 18px;
+    color:#ffffff;
+}
+
+.mark {
+    display: flex;
+    align-items: center;
+    
+}
+
+  .kupit1 {
+    font-family:sans-serif;
+    font-size: 20px;
+    color: #ffb218;
+    text-align: center;
+    margin-top: 50px;
+
+
+    
+}
+
+.kupit {
+    
+    background: rgba(36, 36, 36, 0.7) ;
+    border-radius: 20px;
+    padding: 20px;
+    width: 255px;
+    height: 40px;
+    margin-left: 63px;
+    border-top: solid #ffb218 5px;
+}
+
+.kupit h2 {
+    margin: 0;
+}
+
+.kaspi {
+    text-decoration: none;
+    text-decoration-color: #fff;
+    color: #ffb218;
+}
+
+#myline3 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
