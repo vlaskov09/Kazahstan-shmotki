@@ -1,0 +1,1 @@
+# Kazahstan-shmotki
